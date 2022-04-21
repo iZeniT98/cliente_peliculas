@@ -1,15 +1,29 @@
 .card {
     width: 300px;
+    height: 490px;
     padding: 20px;
-    background-color: rgb(218, 128, 245);
+    background-color: rgba(218, 128, 245, 0.39);
     margin-bottom: 10px;
     margin-right: 10px;
     float: left;
+    border-radius: 5px;
+    overflow: hidden;
+    
 }
+
+.card:hover {
+
+    background-color: rgba(218, 128, 245, 0.527);;
+}
+
 .card img {
-    width: 50%;
+    
+    width: 100%;
 }
 
 .titulo {
     color: black;
+    font-weight: bold;
+    
 }
+

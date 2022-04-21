@@ -1,12 +1,15 @@
-header {
-    color: black;
-    font-weight: bold;
-    font-size: 2em;
-}
 
 span {
     color:purple
 }
-h1 {
-    padding-left: 30px;
+#titulo {
+    margin-left: 20px;
+    font-size: 3em;;
+
 }
+
+header {
+    background-color: rgba(137, 43, 226, 0.384);
+    padding-left: 80px;
+}
+

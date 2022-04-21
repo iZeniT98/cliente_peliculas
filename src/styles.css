@@ -1,5 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+
 body {
     margin: 0px;
-    background-image: url("R:\Users\Silva\Desktop\proyecto_ejecccio5\cliente\cliente_peliculas\src\app\Images\fondo.jpg");
+    background-image: url("app\Images\fondo.jpg");
 }
